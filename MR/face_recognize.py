@@ -26,9 +26,9 @@ GPIO.setup(infrand,GPIO.IN)
 GPIO.setup(res,GPIO.OUT,initial=GPIO.LOW)
 
 #百度人脸识别API账号信息
-APP_ID = '22712501'
-API_KEY = 'xH9EwQM5c9QkQly8LiijBUVU'
-SECRET_KEY ='z3nQf7Vu8GjglfNDDmWxfocX6FQK5NFk'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY =''
 client = AipFace(APP_ID, API_KEY, SECRET_KEY)#创建一个客户端用以访问百度云
 #图像编码方式
 IMAGE_TYPE='BASE64'
