@@ -23,4 +23,4 @@ The main aims of the project:
   
   -- Add " Voice Assistant " (Based on https://github.com/wzpan/wukong-robot)
 
-
+![image](https://github.com/LY4C49/Magical-Mirror/blob/main/People.jpg)
