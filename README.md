@@ -1,4 +1,5 @@
 # Magical-Mirror
+# 树莓派魔镜
 
 #### 本项目基于 https://github.com/PixelChen24/Magirror
 
