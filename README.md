@@ -16,7 +16,7 @@
 --替换了一些组件
 
 硬件设备：
- 树莓派 4B，麦克风，音箱，DHT11温湿度传感器，单透镜，鞋盒（用来包装，环保又便宜！）
+ 树莓派 4B，麦克风，音箱，DHT11温湿度传感器，红外传感，单透镜，鞋盒（用来包装，环保又便宜！）
 
 #
 
@@ -36,7 +36,7 @@ The main improvements of the project:
   -- Replace/Move/Add/Delete some widget
 
 The main Hardware devices:
-  Raspberry 4B, Microphone, Loudspeaker, DHT11 sensor, One-way mirror，Shoe-Box（as wrapper, environmental-friendly and cheap!）
+  Raspberry 4B, Microphone, Loudspeaker, DHT11 sensor, infrared sensor, One-way mirror，Shoe-Box（as wrapper, environmental-friendly and cheap!）
  
  # Done!
 
